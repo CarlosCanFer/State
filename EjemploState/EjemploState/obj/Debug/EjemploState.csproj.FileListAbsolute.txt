@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\obj\Debug\EjemploState.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\obj\Debug\EjemploState.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\bin\Debug\EjemploState.exe.config
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\bin\Debug\EjemploState.exe
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\bin\Debug\EjemploState.pdb
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\obj\Debug\EjemploState.exe
+C:\Users\carlos.can\source\repos\EjemploState\EjemploState\obj\Debug\EjemploState.pdb
